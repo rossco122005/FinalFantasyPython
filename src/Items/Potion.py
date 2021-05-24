@@ -1,7 +1,4 @@
-import sys
-
-sys.path.append(".")
-from Item import Item
+from src.Items.Item import Item
 
 
 class Potion(Item):
@@ -12,7 +9,3 @@ class Potion(Item):
 
     def heal(self):
         return self.hp_healed
-
-    def add_potion(self):
-        self.amount = self.amount + 1
-

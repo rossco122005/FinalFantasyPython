@@ -1,7 +1,5 @@
-import sys
-sys.path.append(".")
-from BaseCharacter import BaseCharacter
-from Weapon import Weapon
+from src.Characters.BaseCharacter import BaseCharacter
+from src.Weapons.Weapon import Weapon
 
 
 class Hero(BaseCharacter):
