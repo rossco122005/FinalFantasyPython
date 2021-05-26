@@ -1,7 +1,7 @@
 from src.Characters.BaseCharacter import BaseCharacter
 from src.Characters.Hero import Hero
 from src.Items.Potion import Potion
-from src.Shop import Shop
+from src.Shop.Shop import Shop
 
 
 def main_game():

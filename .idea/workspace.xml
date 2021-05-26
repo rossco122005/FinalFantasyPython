@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5391a37f-6255-420a-b4d9-8f0afbe36798" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Characters/BaseCharacter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters/Hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Items/Ether.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Items/Item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters-0.1.0-py3.8.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters-0.1.0-py3.8.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters-0.1.0-py3.8.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters-0.1.0-py3.8.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters-0.1.0-py3.8.egg-info/not-zip-safe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters-0.1.0-py3.8.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters/charset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/characters/hex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JSON_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseCharacter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hero.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Item.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Potion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/Potion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weapon.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Weapons/Weapon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ff_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalFantasyPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalFantasyPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalFantasyPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shop/Shop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,16 +45,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ross\Documents\My Programming Projects\Final Fantasy Python\Characters" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ross\Documents\My Programming Projects\Final Fantasy Python\src\Shop" />
       <recent name="C:\Users\Ross\Documents\My Programming Projects\Final Fantasy Python\src\Weapons" />
       <recent name="C:\Users\Ross\Documents\My Programming Projects\Final Fantasy Python\src\Items" />
       <recent name="C:\Users\Ross\Documents\My Programming Projects\Final Fantasy Python\src" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Ross\Documents\My Programming Projects\Final Fantasy Python\Characters" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.FinalFantasyPython">
+  <component name="RunManager" selected="Python.JSON_test">
     <configuration name="FinalFantasyPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Final Fantasy Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +70,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\Ross\Documents\My Programming Projects\Final Fantasy Python\src\FinalFantasyPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JSON_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final Fantasy Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/JSON_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.JSON_test" />
         <item itemvalue="Python.FinalFantasyPython" />
         <item itemvalue="Python.ff_python" />
       </list>
@@ -149,7 +156,9 @@
       <workItem from="1621336136211" duration="729000" />
       <workItem from="1621602997883" duration="3838000" />
       <workItem from="1621686340265" duration="4086000" />
-      <workItem from="1621856516493" duration="4059000" />
+      <workItem from="1621856516493" duration="4061000" />
+      <workItem from="1622032760575" duration="49000" />
+      <workItem from="1622032957600" duration="3436000" />
     </task>
     <servers />
   </component>
@@ -164,25 +173,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621330618940" />
-    <state width="1478" height="265" key="GridCell.Tab.0.bottom" timestamp="1621693155381">
+    <state width="724" height="265" key="GridCell.Tab.0.bottom" timestamp="1622038086587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621693155381" />
-    <state width="1478" height="265" key="GridCell.Tab.0.center" timestamp="1621693155381">
+    <state width="724" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622038086587" />
+    <state width="724" height="265" key="GridCell.Tab.0.center" timestamp="1622038086587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621693155381" />
-    <state width="1478" height="265" key="GridCell.Tab.0.left" timestamp="1621693155381">
+    <state width="724" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622038086587" />
+    <state width="724" height="265" key="GridCell.Tab.0.left" timestamp="1622038086587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621693155381" />
-    <state width="1478" height="265" key="GridCell.Tab.0.right" timestamp="1621693155381">
+    <state width="724" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622038086587" />
+    <state width="724" height="265" key="GridCell.Tab.0.right" timestamp="1622038086587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621693155381" />
+    <state width="724" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622038086587" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Final_Fantasy_Python$ff_python.coverage" NAME="ff_python Coverage Results" MODIFIED="1621607199189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Final_Fantasy_Python$FinalFantasyPython.coverage" NAME="FinalFantasyPython Coverage Results" MODIFIED="1621863765962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_Fantasy_Python$JSON_test.coverage" NAME="JSON_test Coverage Results" MODIFIED="1622038086577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
