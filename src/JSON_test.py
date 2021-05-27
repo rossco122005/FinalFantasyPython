@@ -2,11 +2,13 @@ import json
 
 items = {
     "Potion": {
-        "hp_healed": 100
+        "hp_healed": 100,
+        "price": 50
     },
 
     "Ether": {
-        "mp_healed": 20
+        "mp_healed": 20,
+        "price": 150
     }
 }
 

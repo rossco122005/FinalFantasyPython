@@ -29,8 +29,10 @@ def main_game():
             monster.be_attacked(hero.attack_with_weapon())
         elif choice == "2":
             print("----------Items----------")
-            for potion in hero.item_list:
-                print(potion.get_item_name() + "\t" + "Amount:", potion.get_amount())
+            # for potion in hero.item_list:
+                # print(potion.get_item_name() + "\t" + "Amount:", potion.get_amount())
+            hero.display_items()
+            print()
         elif choice == "3":
             shop.open_shop()
         elif choice == "0":

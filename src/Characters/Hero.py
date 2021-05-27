@@ -7,6 +7,7 @@ class Hero(BaseCharacter):
         super().__init__(name)
         self.weapon = Weapon()
         self.item_list = []
+        self.item_dict = {}
 
     def attack_with_weapon(self):
         damage = BaseCharacter.attack(self)
@@ -17,4 +18,6 @@ class Hero(BaseCharacter):
         self.item_list.append(item)
 
     def display_items(self):
-        print(self.item_list)
+        # print(self.item_list)
+        for item in self.item_dict:
+            print(item)
