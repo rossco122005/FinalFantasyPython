@@ -4,8 +4,6 @@ from src.Items.Ether import Ether
 
 class Shop:
     def __init__(self):
-        # self.potion_for_sale = Potion()
-        # self.ether_for_sale = Ether()
         self.items = {
             "Potion": {
                 "hp_healed": 100,

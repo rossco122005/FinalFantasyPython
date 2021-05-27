@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Characters/Hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Characters/Hero.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FinalFantasyPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalFantasyPython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JSON_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JSON_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Shop/Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shop/Shop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +159,7 @@
       <workItem from="1621856516493" duration="4061000" />
       <workItem from="1622032760575" duration="49000" />
       <workItem from="1622032957600" duration="3731000" />
-      <workItem from="1622115619663" duration="2263000" />
+      <workItem from="1622115619663" duration="3782000" />
     </task>
     <servers />
   </component>
@@ -175,26 +174,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621330618940" />
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1622117861761">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1622119414789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622117861761" />
-    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1622117861761">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622119414789" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1622119414789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622117861761" />
-    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1622117861761">
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622119414789" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1622119414789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622117861761" />
-    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1622117861761">
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622119414789" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1622119414789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622117861761" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622119414789" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Final_Fantasy_Python$ff_python.coverage" NAME="ff_python Coverage Results" MODIFIED="1621607199189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Final_Fantasy_Python$FinalFantasyPython.coverage" NAME="FinalFantasyPython Coverage Results" MODIFIED="1622117861755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_Fantasy_Python$FinalFantasyPython.coverage" NAME="FinalFantasyPython Coverage Results" MODIFIED="1622119414778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Final_Fantasy_Python$JSON_test.coverage" NAME="JSON_test Coverage Results" MODIFIED="1622038086577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>

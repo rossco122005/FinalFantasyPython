@@ -15,7 +15,8 @@ class Hero(BaseCharacter):
         return damage
 
     def add_item(self, item):
-        self.item_list.append(item)
+        #self.item_list.append(item)
+        self.item_dict.update(item)
 
     def display_items(self):
         # print(self.item_list)
