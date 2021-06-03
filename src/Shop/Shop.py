@@ -1,20 +1,11 @@
-from src.Items.Potion import Potion
-from src.Items.Ether import Ether
+import json
+with open("src/Shop/items.json", "r") as items_read_file:
+    items_from_json = json.load(items_read_file)
 
 
 class Shop:
     def __init__(self):
-        self.items = {
-            "Potion": {
-                "hp_healed": 100,
-                "price": 50
-            },
-
-            "Ether": {
-                "mp_healed": 20,
-                "price": 150
-            }
-        }
+        self.items = items_from_json
 
     def open_shop(self):
         print()
