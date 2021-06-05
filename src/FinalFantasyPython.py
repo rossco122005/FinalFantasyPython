@@ -41,12 +41,9 @@ def main_game():
             print("0. To leave the shop")
             choice = input("Please choose: ")
             if choice == "1":
-                # hero.add_item(shop.items["Potion"])
-                print(shop.items["Potion"])
-                print(list(shop.items)[0])
-                # hero.add_item(shop.items["Potion"]["hp_healed"])
+                hero.add_item("Potion", "hp_healed", shop.items.get("Potion").get("hp_healed"))
             elif choice == "2":
-                hero.add_item(shop.items["Ether"])
+                hero.add_item("Ether", "mp_healed", shop.items.get("Ether").get("mp_healed"))
             elif choice == "0":
                 print("Leaving shop...")
 

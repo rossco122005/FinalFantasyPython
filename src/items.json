@@ -1,1 +1,1 @@
-{"Potion": {"hp_healed": 100, "price": 50}, "Ether": {"mp_healed": 20, "price": 150}}
+{"Potion": {"hp_healed": 100, "price": 50}, "Ether": {"mp_healed": 20, "price": 150}, "Grenade": {"damage_dealt": 100, "price": 250}}
